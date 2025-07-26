@@ -1,0 +1,10 @@
+
+G	java:S106
+"+Replace this use of System.out by a logger.(ÅááÈ8õ¬ÂùÃ1
+F	java:S106"+Replace this use of System.out by a logger.(ÄËäx8ù¬ÂùÃ1
+L	java:S106"+Replace this use of System.out by a logger.(­¢ïúÿÿÿÿ8ù¬ÂùÃ1
+X	java:S125"<This block of commented-out lines of code should be removed.(µÀ­Ì8Å•ÈùÃ1
+F	java:S106+"+Replace this use of System.out by a logger.(ÄËäx8È•ÈùÃ1
+L	java:S106-"+Replace this use of System.out by a logger.(­¢ïúÿÿÿÿ8È•ÈùÃ1
+W
+java:S1144$":Remove this unused private "hoanViUsingCollection" method.(Ô²¹Í8È•ÈùÃ1

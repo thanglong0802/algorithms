@@ -1,0 +1,5 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜíŒ˜úÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(÷Ñ…Ùøÿÿÿÿ
+\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ

@@ -1,0 +1,13 @@
+
+i
+java:S1192"MDefine a constant instead of duplicating this literal "Total time: " 3 times.(ÍÙög8ÜÛ³ë¾1
+>
+java:S1643"Use a StringBuilder instead.(Ñ™°Äùÿÿÿÿ8­¥ÛÃ¾1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ŞÃÓ8®¥ÛÃ¾1
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£™¨¹8²¥ÛÃ¾1
+H
+java:S1481"&Remove this unused "a" local variable.(íåÏÊÿÿÿÿÿ8´¥ÛÃ¾1
+F	java:S106"+Replace this use of System.out by a logger.(ÍÙög8´¥ÛÃ¾1
+F	java:S106"+Replace this use of System.out by a logger.(ÍÙög8µ¥ÛÃ¾1
+F	java:S106"+Replace this use of System.out by a logger.(ÍÙög8éÛ³ë¾1

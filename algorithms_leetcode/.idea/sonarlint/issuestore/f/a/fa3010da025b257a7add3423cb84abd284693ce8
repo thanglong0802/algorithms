@@ -1,0 +1,15 @@
+
+E
+java:S1604X"(Make this anonymous inner class a lambda(³Ïïà8‘æŠß·1
+A
+java:S2629^"$Invoke method(s) only conditionally.(ÂˆÎý8‘æŠß·1
+A
+java:S2629d"$Invoke method(s) only conditionally.(ÂˆÎý8’æŠß·1
+A
+java:S2629j"$Invoke method(s) only conditionally.(ÂˆÎý8’æŠß·1
+y
+java:S4144g"\Update this method so that its implementation is not identical to "doSomeThing2" on line 97.(Ó£–÷8˜æŠß·1
+T
+java:S1611c"2Remove the parentheses around the "form" parameter(¥ÿ¢¼ýÿÿÿÿ8–Ê‚È¶2
+T
+java:S1611i"2Remove the parentheses around the "form" parameter(¥ÿ¢¼ýÿÿÿÿ8™Ê‚È¶2
