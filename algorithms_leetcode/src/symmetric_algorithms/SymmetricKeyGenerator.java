@@ -19,7 +19,11 @@ public class SymmetricKeyGenerator {
         return secretKey;
     }
 
-    public static byte[] generateSymmetricKey() {
+    public static byte[] generateInitializationVector() {
+        return generateSymmetricKey(16);
+    }
+
+    public static byte[] generateSymmetricKeyDefault32Byte() {
         return SECRET_KEY_DEFAULT_32_BYTE.getBytes(StandardCharsets.UTF_8);
     }
 
